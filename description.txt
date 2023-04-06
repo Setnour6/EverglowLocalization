@@ -1,7 +1,7 @@
 Provides localizations for ONLY the 1.4.4 version of the Everglow mod, since it fails to load for developers and some users.
 
 Note: Not all translations are complete.
-Note 2: This mod is supposed to be private, you shouldn't see this.
+Note 2: If you do not have access to the 1.4.4 version of Everglow, do not subscribe.
 
 Full credits:
 - Setnour6 (Mod Developer, Mod Manager and ZH -> EN)
