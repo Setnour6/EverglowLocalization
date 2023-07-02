@@ -1,0 +1,520 @@
+Common: {
+}
+
+NPCs: {
+}
+
+Bestiary: {
+}
+
+Items: {
+	AshBone: {
+	}
+
+	BoneFeatherMagic: {
+	}
+
+	CloudGun: {
+	}
+
+	ComingGhost: {
+	}
+
+	FeatherMagic: {
+	}
+
+	FireFeatherMagic: {
+	}
+
+	FreezeFeatherMagic: {
+	}
+
+	GoldRoundYoyo: {
+	}
+
+	SilveralGun: {
+	}
+
+	SilveralRifle: {
+	}
+
+	Sunflower: {
+	}
+
+	ThunderFlower: {
+	}
+
+	World: {
+	}
+
+	XmasWhip: {
+	}
+
+	BloodGoldBlade: {
+	}
+
+	BloodLightCyanFlame: {
+	}
+
+	BlueRain: {
+	}
+
+	ChaosCurrent: {
+	}
+
+	GelPowerGun: {
+	}
+
+	LaserWhip: {
+	}
+
+	MachineFit: {
+	}
+
+	MachineSkeGun: {
+	}
+
+	RainbowLight: {
+	}
+
+	SilenceMirror: {
+	}
+
+	ThornBomb: {
+	}
+
+	ToothBow: {
+	}
+
+	ToothSpear: {
+	}
+
+	TrapYoyo: {
+	}
+
+	BlueGel: {
+	}
+
+	CorruptEye: {
+	}
+
+	DukeTooth: {
+	}
+
+	FireflyBorageBadge: {
+	}
+
+	GoldLiquidPupil: {
+	}
+
+	GreenGel: {
+	}
+
+	JungleVitamin: {
+	}
+
+	MothEye: {
+	}
+
+	Odd8Ring: {
+	}
+
+	SilverWing: {
+	}
+
+	TuskLace: {
+	}
+
+	WalnutClip: {
+	}
+
+	FixCoinCrit1: {
+	}
+
+	FixCoinCrit2: {
+	}
+
+	FixCoinCrit3: {
+	}
+
+	FixCoinCrit4: {
+	}
+
+	FixCoinCrit5: {
+	}
+
+	FixCoinDamage1: {
+	}
+
+	FixCoinDamage2: {
+	}
+
+	FixCoinDamage3: {
+	}
+
+	FixCoinDamage4: {
+	}
+
+	FixCoinDamage5: {
+	}
+
+	FixCoinDefense1: {
+	}
+
+	FixCoinDefense2: {
+	}
+
+	FixCoinDefense3: {
+	}
+
+	FixCoinDefense4: {
+	}
+
+	FixCoinDefense5: {
+	}
+
+	FixCoinMelee1: {
+	}
+
+	FixCoinMelee2: {
+	}
+
+	FixCoinMelee3: {
+	}
+
+	FixCoinSpeed1: {
+	}
+
+	FixCoinSpeed2: {
+	}
+
+	FixCoinSpeed3: {
+	}
+
+	CorruptMothTreasureBag: {
+	}
+
+	TuskTreasureBag: {
+	}
+
+	FragransBlade: {
+	}
+
+	FragransBoomerang: {
+	}
+
+	FragransBow: {
+	}
+
+	FragransGun: {
+	}
+
+	FragransMagic: {
+	}
+
+	FragransSpear: {
+	}
+
+	FragransStaff: {
+	}
+
+	EbonwoodClub: {
+	}
+
+	CrimsonClub: {
+	}
+
+	IchorClub: {
+	}
+
+	CactusClub: {
+	}
+
+	CobaltClub: {
+	}
+
+	BorealWoodClub: {
+	}
+
+	CopperClub: {
+	}
+
+	CorruptClub: {
+	}
+
+	CrystalClub: {
+	}
+
+	CurseClub: {
+	}
+
+	ShadewoodClub: {
+	}
+
+	GoldClub: {
+	}
+
+	IronClub: {
+	}
+
+	LeadClub: {
+	}
+
+	ChlorophyteClub: {
+	}
+
+	MeteorClub: {
+	}
+
+	MithrilClub: {
+	}
+
+	OrichalcumClub: {
+	}
+
+	PalladiumClub: {
+	}
+
+	PalmWoodClub: {
+	}
+
+	PearlwoodClub: {
+	}
+
+	PlatinumClub: {
+	}
+
+	RichMahoganyClub: {
+	}
+
+	RefinedClub: {
+	}
+
+	SilverClub: {
+	}
+
+	SpikeClub: {
+	}
+
+	StarDancer: {
+	}
+
+	TinClub: {
+	}
+
+	TitaniumClub: {
+	}
+
+	TungstenClub: {
+	}
+
+	WoodenClub: {
+	}
+
+	AmbiguousNight: {
+	}
+
+	BlackWoodSlingshot: {
+	}
+
+	BlueGemSlingshot: {
+	}
+
+	CactusSlingShot: {
+	}
+
+	ColdWoodSlingshot: {
+	}
+
+	DarkWoodSlingShot: {
+	}
+
+	GreenGemSlingshot: {
+	}
+
+	JellySlingshot: {
+	}
+
+	JungleSlingshot: {
+	}
+
+	PalmWoodSlingshot: {
+	}
+
+	PearlWoodSlingshot: {
+	}
+
+	PurpleGemSlingshot: {
+	}
+
+	RedGemSlingshot: {
+	}
+
+	RedWoodSlingshot: {
+	}
+
+	StarSlingshot: {
+	}
+
+	WhiteGemSlingshot: {
+	}
+
+	WoodSlingshot: {
+	}
+
+	YellowGemSlingshot: {
+	}
+
+	BloodyBoneYoyo: {
+	}
+
+	SpineGun: {
+	}
+
+	ToothKnfe: {
+	}
+
+	ToothMagicBall: {
+	}
+
+	ToothStaff: {
+	}
+
+	CrystalSkull: {
+	}
+
+	GlowBeadGun: {
+	}
+
+	DustOfCorrupt: {
+	}
+
+	EvilChrysalis: {
+	}
+
+	PhosphorescenceGun: {
+	}
+
+	ScaleWingBlade: {
+	}
+
+	ShadowWingBow: {
+	}
+
+	MothYoyo: {
+	}
+
+	NavyThunder: {
+	}
+
+	DarknessFan: {
+	}
+
+	FireflyCapital: {
+	}
+
+	GlowWoodMusicBox: {
+	}
+
+	Hepuyuan: {
+	}
+
+	LilyHarp: {
+	}
+}
+
+Buffs: {
+	BanTransport: {
+	}
+
+	CorruptMothBuff: {
+	}
+
+	Freeze: {
+	}
+
+	Freeze2: {
+	}
+
+	LaserWormBuff: {
+	}
+
+	MoonAndFragrans: {
+	}
+
+	MoonAndFragransII: {
+	}
+
+	MoonAndFragransIII: {
+	}
+
+	OnMoth: {
+	}
+
+	BlueImmune: {
+	}
+
+	BrownImmune: {
+	}
+
+	GreenImmune: {
+	}
+
+	PinkImmune: {
+	}
+
+	PurpleImmune: {
+	}
+
+	RedImmune: {
+	}
+
+	WhiteImmune: {
+	}
+
+	YellowImmune: {
+	}
+
+	WaterBoltII: {
+	}
+
+	ShadowSupervisor: {
+	}
+
+	GlowMothBuff: {
+	}
+
+	TuskStaff: {
+	}
+}
+
+MapEntry: {
+}
+
+ExtraTooltip: {
+	FireflyItems: {
+	}
+
+	Spellbook: {
+	}
+}
+
+Projectiles: {
+}
+
+Prefixes: {
+}
+
+Biomes: {
+}
+
+Tiles: {
+	GlowWoodChest: {
+	}
+
+	GlowWoodDresser: {
+	}
+
+	GlowWoodDresserType2: {
+	}
+}

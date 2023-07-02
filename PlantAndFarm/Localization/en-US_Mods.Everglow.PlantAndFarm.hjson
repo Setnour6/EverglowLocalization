@@ -1,0 +1,67 @@
+Common: {
+}
+
+Items: {
+	BlueTorchFlower: {
+	}
+
+	CyanBranch: {
+	}
+
+	CyanPedal: {
+	}
+
+	DarkHat: {
+	}
+
+	GoldRound: {
+	}
+
+	HotPinkCrown: {
+	}
+
+	LightPurplePen: {
+	}
+
+	ManyWhiteFlower: {
+	}
+
+	OrangeCrown: {
+	}
+
+	OrangeStick: {
+	}
+
+	PinkFourPedal: {
+	}
+
+	PurpleBall: {
+	}
+
+	PurpleReedHalo: {
+	}
+
+	RedTriangle: {
+	}
+
+	SilverCupFlower: {
+	}
+
+	ThreeColorCrown: {
+	}
+
+	WhiteCrown: {
+	}
+
+	WhitePedal: {
+	}
+
+	WhiteWoodFlower: {
+	}
+
+	YellowBellFlower: {
+	}
+}
+
+Projectiles: {
+}

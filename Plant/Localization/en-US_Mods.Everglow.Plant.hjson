@@ -1,0 +1,15 @@
+Common: {
+}
+
+Items: {
+	CactusBall: {
+	}
+}
+
+Buffs: {
+	CactusBallBuff: {
+	}
+}
+
+Projectiles: {
+}

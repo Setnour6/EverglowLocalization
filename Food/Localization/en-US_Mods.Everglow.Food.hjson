@@ -1,0 +1,497 @@
+Common: {
+	#食物系统FoodSystem
+	FoodSystem: {
+	}
+}
+
+Items: {
+	BloodGlucoseMonitor: {
+	}
+
+	OsmoticPressureMonitor: {
+	}
+
+	FryingPanItem: {
+	}
+
+	B_52: {
+	}
+
+	BlueHawaii: {
+	}
+
+	DreamYearning: {
+	}
+
+	DryMartini: {
+	}
+
+	GreenStorm: {
+	}
+
+	KiwiJuice: {
+	}
+
+	LonelyJellyfish: {
+	}
+
+	OrangeJuice: {
+	}
+
+	PiercoldWind: {
+	}
+
+	PurpleHooter: {
+	}
+
+	QuinceMarry: {
+	}
+
+	RedWine: {
+	}
+
+	Sunrise: {
+	}
+
+	Tricolour: {
+	}
+
+	WaterMelonJuice: {
+	}
+
+	ArcticshellfishWarship: {
+	}
+
+	BakedMussel: {
+	}
+
+	BakedOyster: {
+	}
+
+	CantaloupeJelly: {
+	}
+
+	CaramelPudding: {
+	}
+
+	CrabseedWarship: {
+	}
+
+	Durian: {
+	}
+
+	EggTart: {
+	}
+
+	KiwiFruit: {
+	}
+
+	KiwiIceCream: {
+	}
+
+	Mangosteen: {
+	}
+
+	OrangeIcecream: {
+	}
+
+	SalmonInPepper: {
+	}
+
+	SalmonWarship: {
+	}
+
+	SeafoodPizza: {
+	}
+
+	StinkyTofu: {
+	}
+
+	Strawberry: {
+	}
+
+	StrawberryIcecream: {
+	}
+
+	SweetshrimpSushi: {
+	}
+
+	TamakoSushi: {
+	}
+
+	WakameWarship: {
+	}
+
+	Watermelon: {
+	}
+
+	WatermelonPlate: {
+	}
+}
+
+Buffs: {
+	FoodBuff: {
+	}
+
+	AleBuff: {
+	}
+
+	AppleBuff: {
+	}
+
+	AppleJuiceBuff: {
+	}
+
+	ApplePieBuff: {
+	}
+
+	ApricotBuff: {
+	}
+
+	BaconBuff: {
+	}
+
+	BananaBuff: {
+	}
+
+	BananaDaiquiriBuff: {
+	}
+
+	BananaSplitBuff: {
+	}
+
+	BBQRibsBuff: {
+	}
+
+	BlackCurrantBuff: {
+	}
+
+	BloodOrangeBuff: {
+	}
+
+	BloodyMoscatoBuff: {
+	}
+
+	BowlofSoupBuff: {
+	}
+
+	BunnyStewBuff: {
+	}
+
+	BurgerBuff: {
+	}
+
+	CherryBuff: {
+	}
+
+	ChickenNuggetBuff: {
+	}
+
+	ChocolateChipCookieBuff: {
+	}
+
+	ChristmasPuddingBuff: {
+	}
+
+	CoconutBuff: {
+	}
+
+	CoffeeCupBuff: {
+	}
+
+	CookedFishBuff: {
+	}
+
+	CookedMarshmallowBuff: {
+	}
+
+	CookedShrimpBuff: {
+	}
+
+	CreamSodaBuff: {
+	}
+
+	DragonfruitBuff: {
+	}
+
+	ElderberryBuff: {
+	}
+
+	EscargotBuff: {
+	}
+
+	FriedEggBuff: {
+	}
+
+	FriesBuff: {
+	}
+
+	FroggleBunwichBuff: {
+	}
+
+	FruitJuiceBuff: {
+	}
+
+	FruitSaladBuff: {
+	}
+
+	GingerbreadCookieBuff: {
+	}
+
+	GoldenDelightBuff: {
+	}
+
+	GrapefruitBuff: {
+	}
+
+	GrapeJuiceBuff: {
+	}
+
+	GrapesBuff: {
+	}
+
+	GrilledSquirrelBuff: {
+	}
+
+	GrubSoupBuff: {
+	}
+
+	HotdogBuff: {
+	}
+
+	IceCreamBuff: {
+	}
+
+	LemonadeBuff: {
+	}
+
+	LemonBuff: {
+	}
+
+	LobsterTailBuff: {
+	}
+
+	MangoBuff: {
+	}
+
+	MarshmallowBuff: {
+	}
+
+	MilkCartonBuff: {
+	}
+
+	MilkshakeBuff: {
+	}
+
+	MonsterLasagnaBuff: {
+	}
+
+	NachosBuff: {
+	}
+
+	PadThaiBuff: {
+	}
+
+	PeachBuff: {
+	}
+
+	PeachSangriaBuff: {
+	}
+
+	PhoBuff: {
+	}
+
+	PinaColadaBuff: {
+	}
+
+	PineappleBuff: {
+	}
+
+	PizzaBuff: {
+	}
+
+	PlumBuff: {
+	}
+
+	PotatoChipsBuff: {
+	}
+
+	PrismaticPunchBuff: {
+	}
+
+	PumpkinPieBuff: {
+	}
+
+	RambutanBuff: {
+	}
+
+	RoastedBirdBuff: {
+	}
+
+	RoastedDuckBuff: {
+	}
+
+	SakeBuff: {
+	}
+
+	SashimiBuff: {
+	}
+
+	SauteedFrogLegsBuff: {
+	}
+
+	SeafoodDinnerBuff: {
+	}
+
+	ShrimpPoBoyBuff: {
+	}
+
+	ShuckedOysterBuff: {
+	}
+
+	SmoothieofDarknessBuff: {
+	}
+
+	SpaghettiBuff: {
+	}
+
+	StarfruitBuff: {
+	}
+
+	SteakBuff: {
+	}
+
+	SugarCookieBuff: {
+	}
+
+	TeacupBuff: {
+	}
+
+	TropicalSmoothieBuff: {
+	}
+
+	B_52Buff: {
+	}
+
+	BlueHawaiiBuff: {
+	}
+
+	DreamYearningBuff: {
+	}
+
+	DryMartiniBuff: {
+	}
+
+	GreenStormBuff: {
+	}
+
+	KiwiJuiceBuff: {
+	}
+
+	LonelyJellyfishBuff: {
+	}
+
+	OrangeJuiceBuff: {
+	}
+
+	PiercoldWindBuff: {
+	}
+
+	PurpleHooterBuff: {
+	}
+
+	QuinceMarryBuff: {
+	}
+
+	RedWineBuff: {
+	}
+
+	SunriseBuff: {
+	}
+
+	TricolourBuff: {
+	}
+
+	WaterMelonJuiceBuff: {
+	}
+
+	ArcticshellfishWarshipBuff: {
+	}
+
+	BakedMusselBuff: {
+	}
+
+	BakedOysterBuff: {
+	}
+
+	CantaloupeJellyBuff: {
+	}
+
+	CaramelPuddingBuff: {
+	}
+
+	CrabseedWarshipBuff: {
+	}
+
+	DurianBuff: {
+	}
+
+	EggTartBuff: {
+	}
+
+	KiwiFruitBuff: {
+	}
+
+	KiwiIceCreamBuff: {
+	}
+
+	MangosteenBuff: {
+	}
+
+	OrangeIcecreamBuff: {
+	}
+
+	SalmonInPepperBuff: {
+	}
+
+	SalmonWarshipBuff: {
+	}
+
+	SeafoodPizzaBuff: {
+	}
+
+	StinkyTofuBuff: {
+	}
+
+	StrawberryBuff: {
+	}
+
+	StrawberryIcecreamBuff: {
+	}
+
+	SweetshrimpSushiBuff: {
+	}
+
+	TamakoSushiBuff: {
+	}
+
+	WakameWarshipBuff: {
+	}
+
+	WatermelonBuff: {
+	}
+
+	WatermelonPlateBuff: {
+	}
+}
+
+InfoDisplays: {
+}
+
+InfoDisplay: {
+	SatietyLevel: {
+	}
+}
+
+Projectiles: {
+}

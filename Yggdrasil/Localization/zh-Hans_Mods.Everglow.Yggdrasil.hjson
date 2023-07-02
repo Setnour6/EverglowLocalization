@@ -1,0 +1,28 @@
+Common: {
+}
+
+NPCs: {
+}
+
+Items: {
+	YggdrasilCapital: {
+	}
+
+	TestItem: {
+	}
+
+	CyanVinePickaxe: {
+	}
+}
+
+MapEntry: {
+}
+
+Projectiles: {
+}
+
+Biomes: {
+}
+
+Tiles: {
+}
