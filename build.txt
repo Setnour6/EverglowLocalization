@@ -2,5 +2,6 @@ displayName = Everglow Localization Package
 author = Setnour6, Lacewing, NooN iS oN, Zero Project, Rothur Team
 version = 0.1
 modReferences = Everglow
+translationMod = true
 side = Client
 sortAfter = Everglow
