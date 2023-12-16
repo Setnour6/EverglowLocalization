@@ -1,3 +1,5 @@
+This may be outdated. Rely on the hjson file if needed.
+
 *en-US*:
 
 *zh-Hans*:
