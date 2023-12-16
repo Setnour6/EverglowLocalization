@@ -1,3 +1,51 @@
+Common: {
+	Hour: hour
+	Minute: minute
+	Second: second
+	Duration: duration
+	NotActivated: Unactivated
+	WarWhipGT:
+		'''
+		No summon tag damage
+		Your summons will focus struck enemies
+		'''
+	WhipGT:
+		'''
+		 summon tag damage
+		Your summons will focus struck enemies
+		'''
+	ClubGT: Spin to strike enemies
+	RapierGT: Right click and hold to charge an invincibility dash with high damage
+	NoAmmoConsum: Does not consume ammo
+	Acytaea: Acytaea
+	ExcluWeapon: Exclusive Weapon
+	MythWeapon: Mythical Weapon
+	LegendWeapon: Legendary Weapon
+	DebugItem:
+		'''
+		! Debug item !
+		Use on your own risk
+		'''
+
+	#世界系统WorldSystem
+	WorldSystem: {
+		WorldCreate_Def: Generating World
+		WorldEnter_Def: Entering World
+		BuildMothCave: Generating The Cocoon
+	}
+
+	#食物系统FoodSystem
+	FoodSystem: {
+		Satiety: Satiety
+		CannotEat: You are full
+		CannotDrink: You don't feel like drinking
+		Khan: Khan, take me on one more charge
+	}
+
+	PylonSystem.ShabbyPylonRepairedTip: Pylon reconnected
+	Message.HasAwoken: has awoken!
+}
+
 Tiles: {
 	BottleOfNutShellFlowers.MapEntry: Bottle Of Nut Shell Flowers
 	PlumBlossomInABowl.MapEntry: Plum Blossom In A Bowl
