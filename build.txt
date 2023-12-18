@@ -1,4 +1,4 @@
-displayName = Everglow Localization Package
+displayName = Everglow Localization Patch
 author = Setnour6, Lacewing, NooN iS oN, Zero Project, Rothur Team
 version = 0.1
 modReferences = Everglow

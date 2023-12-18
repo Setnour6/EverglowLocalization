@@ -1,7 +1,8 @@
 Provides localizations for ONLY the 1.4.4 version of the Everglow mod, since it fails to load for developers and some users.
 You need to be able to load the 1.4.4 version of Everglow for this mod to work.
+As of 17/12/2023 (in DD/MM/YYYY), only English, Simplified Chinese, and Russian are supported.
 
-Note: Not all translations are complete or available.
+Note: Not all translations are complete or available, including supported languages.
 
 Full credits:
 - Setnour6 (Mod Developer, Mod Manager and ZH -> EN)
