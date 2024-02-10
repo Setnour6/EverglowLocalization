@@ -2217,7 +2217,7 @@ Items: {
 
 	FireflyImpression: {
 		DisplayName: "'An Impression of The Firefly'"
-		Tooltip: Brings you to The Firefly\n{$Mods.Everglow.Common.DebugItem}
+		Tooltip: "Brings you to The Firefly\n{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	FireflyMoss: {
@@ -2621,7 +2621,7 @@ Items: {
 
 	ComingGhost: {
 		DisplayName: Warped Blade
-		Tooltip: Randomly surprises a lucky enemy nearby
+		Tooltip: ""#Randomly surprises a lucky enemy nearby
 	}
 
 	CyanFrost: {
@@ -2630,17 +2630,17 @@ Items: {
 	}
 
 	FeatherMagic: {
-		DisplayName: Book of Feather
+		DisplayName: Book of Feathers
 		Tooltip: ""
 	}
 
 	FireFeatherMagic: {
-		DisplayName: Book of Flaming Feather
+		DisplayName: Book of Flaming Feathers
 		Tooltip: Shoots explosive feathers
 	}
 
 	FreezeFeatherMagic: {
-		DisplayName: Book of Ice Feather
+		DisplayName: Book of Ice Feathers
 		Tooltip: Shoots ice-bound feathers
 	}
 
@@ -2911,8 +2911,8 @@ Items: {
 		Tooltip: ""
 	}
 
-	MithrilClub: {
-		DisplayName: Mithril Club
+	MythrilClub: {
+		DisplayName: Mythril Club
 		Tooltip: ""
 	}
 
@@ -4039,7 +4039,7 @@ Projectiles: {
 	IronClub.DisplayName: Iron Club
 	LeadClub.DisplayName: Lead Club
 	MeteorClub.DisplayName: Meteor Club
-	MithrilClub.DisplayName: Mithril Club
+	MythrilClub.DisplayName: Mythril Club
 	OrichalcumClub.DisplayName: Orichalcum Club
 	PalladiumClub.DisplayName: Palladium Club
 	PalmWoodClub.DisplayName: Palm Wood Club
@@ -4424,7 +4424,8 @@ ExtraTooltip: {
 		MothEyeText2: "[c/7FC1FF:- The effectiveness of mana sickness is reduced by 4]"
 		MothEyeText3: "[c/7FC1FF:- All Firefly weapons deal 5% more damage]"
 		MothEyeText4: "[c/7FC1FF:- Some Firefly-related items gain bonuses]"
-		MothEyeBonusText: "[c/7FC1FF:Bonus gained from {$Mods.Everglow.Items.MothEye.DisplayName}:]" #{$Mods.Everglow.ItemName.MothEye}
+		MothEyeBonusText: "[c/7FC1FF:Bonus gained from {$Mods.Everglow.Items.MothEye.DisplayName}:]"
+		#{$Mods.Everglow.ItemName.MothEye}
 		MEyeBonusTextMothBlade: "[c/7FC1FF:- Moths appearing from this blade move faster]"
 		MEyeBonusTextMothBow: "[c/7FC1FF:- Reduces the charging time of the bow]"
 		MEyeBonusTextMothGun0: "[c/7FC1FF:- The phosphorescent bullets deal more damage]"

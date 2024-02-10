@@ -1934,6 +1934,7 @@ Items: {
 			The last attack slightly propels you to the cursor
 			Left click and hold to dash and summon falling spears
 			Right click to summon a pillar and grant you a damage-reducing shield
+			[c/856Eb5:Developer Item: FelixYang777]
 			''' */
 	}
 
@@ -4425,7 +4426,8 @@ ExtraTooltip: {
 		// MothEyeText2: "[c/7FC1FF:- The effectiveness of mana sickness is reduced by 4]"
 		// MothEyeText3: "[c/7FC1FF:- All Firefly weapons deal 5% more damage]"
 		// MothEyeText4: "[c/7FC1FF:- Some Firefly-related items gain bonuses]"
-		// MothEyeBonusText: "[c/7FC1FF:Bonus gained from {$Mods.Everglow.ItemName.MothEye}:]"
+		// MothEyeBonusText: "[c/7FC1FF:Bonus gained from {$Mods.Everglow.Items.MothEye.DisplayName}:]"
+		#{$Mods.Everglow.ItemName.MothEye}
 		// MEyeBonusTextMothBlade: "[c/7FC1FF:- Moths appearing from this blade move faster]"
 		// MEyeBonusTextMothBow: "[c/7FC1FF:- Reduces the charging time of the bow]"
 		// MEyeBonusTextMothGun0: "[c/7FC1FF:- The phosphorescent bullets deal more damage]"
