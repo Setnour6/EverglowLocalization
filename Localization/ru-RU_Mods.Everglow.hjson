@@ -15,7 +15,7 @@ Common: {
 		Your summons will focus struck enemies
 		''' */
 	// ClubGT: Spin to strike enemies
-	// RapierGT: Right click and hold to charge an invincibility dash with high damage
+	// RapierGT: Right click to thrust the rapier, dealing higher damage at the cost of stamina
 	// NoAmmoConsum: Does not consume ammo
 	// Acytaea: Acytaea
 	// ExcluWeapon: Exclusive Weapon
@@ -1365,142 +1365,142 @@ Items: {
 
 	BloodGoldBayonet: {
 		DisplayName: Багряная рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	BlossomThorn: {
 		// DisplayName: Blossom Thorn
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	BlueRibbonBayonet: {
 		// DisplayName: Blue Ribbon Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	CopperBayonet: {
 		// DisplayName: Copper Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	CrutchBayonet: {
 		// DisplayName: Crutch Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	CurseFlameStabbingSword: {
 		// DisplayName: Cursed Flame Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	DreamStar: {
 		DisplayName: Звезда мечты
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	EnchantedBayonet: {
 		// DisplayName: Enchanted Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	EternalNight: {
 		// DisplayName: Eternal Night Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	GoldenStabbingSword: {
 		DisplayName: Золотая рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	HolyBayonet: {
 		// DisplayName: Holy Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	IchorBayonet: {
 		// DisplayName: Ichor Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	IronStabbingSword: {
 		DisplayName: Железная рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	LeadStabbingSword: {
 		DisplayName: Свинцовая рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	MechanicMosquito: {
 		// DisplayName: Mechanic Mosquito
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	PlatinumStabbingSword: {
 		DisplayName: Платиновая рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	PrisonFireBayonet: {
 		DisplayName: Литая рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	RedRibbonBayonet: {
 		// DisplayName: Red Ribbon Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	RottenGoldBayonet: {
 		// DisplayName: Corruption Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	SilverStabbingSword: {
 		DisplayName: Серебряная рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	SwordfishBeak: {
 		// DisplayName: Swordfish Beak
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	TinStabbingSword: {
 		// DisplayName: Tin Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	TungstenStabbingSword: {
 		// DisplayName: Tungsten Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	VegetationBayonet: {
 		DisplayName: Травинистая рапира
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	VertebralSpur: {
 		// DisplayName: Vertebral Spur
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	YoenLeZed: {
 		// DisplayName: Yoen Le Zed
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	StaminaItem: {
 		// DisplayName: Stamina Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	EnergyDrink: {
 		// DisplayName: Energy Drink
-		// Tooltip: ""
+		// Tooltip: Boosts Stamina Recovery by 20%
 	}
 
 	StarSeed: {
@@ -1510,7 +1510,7 @@ Items: {
 
 	EnergyBand: {
 		// DisplayName: Energy Band
-		// Tooltip: ""
+		// Tooltip: Decreases Stamina Speed by 25%
 	}
 
 	FryingPanItem: {
@@ -1940,12 +1940,12 @@ Items: {
 
 	BurningFrozenHeart: {
 		// DisplayName: Burning Frozen Heart
-		// Tooltip: ""
+		// Tooltip: Grants immunity to Chilled, Frostburn, Frostbite, and Frozen
 	}
 
 	CreatPineTree: {
 		// DisplayName: Create Pine Tree
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	DessertBag_Snow: {
@@ -1975,12 +1975,12 @@ Items: {
 
 	PineNut: {
 		// DisplayName: Pine Nut
-		// Tooltip: ""
+		// Tooltip: Permanently increases max life by 3, up to 15
 	}
 
 	PineStab: {
 		// DisplayName: Pine Rapier
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.RapierGT}"
 	}
 
 	SnowPineChest: {
@@ -2217,7 +2217,11 @@ Items: {
 
 	FireflyImpression: {
 		// DisplayName: "'An Impression of The Firefly'"
-		// Tooltip: Brings you to The Firefly\n{$Mods.Everglow.Common.DebugItem}
+		/* Tooltip:
+			'''
+			Brings you to The Firefly
+			{$Mods.Everglow.Common.DebugItem}
+			''' */
 	}
 
 	FireflyMoss: {
@@ -2912,7 +2916,7 @@ Items: {
 		// Tooltip: ""
 	}
 
-	MithrilClub: {
+	MythrilClub: {
 		DisplayName: Мифриловая дубинка
 		// Tooltip: ""
 	}
@@ -4041,7 +4045,7 @@ Projectiles: {
 	// IronClub.DisplayName: Iron Club
 	// LeadClub.DisplayName: Lead Club
 	// MeteorClub.DisplayName: Meteor Club
-	// MithrilClub.DisplayName: Mithril Club
+	// MythrilClub.DisplayName: Mythril Club
 	// OrichalcumClub.DisplayName: Orichalcum Club
 	// PalladiumClub.DisplayName: Palladium Club
 	// PalmWoodClub.DisplayName: Palm Wood Club
