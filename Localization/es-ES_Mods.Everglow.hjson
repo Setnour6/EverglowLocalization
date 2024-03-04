@@ -1246,7 +1246,11 @@ Buffs: {
 
 	ShadowPotionBuff: {
 		// DisplayName: Shadow Potion Buff
-		// Description: Mods.Everglow.Buffs.ShadowPotionBuff.Description
+		/* Description:
+			'''
+			Increases defense by 15 and damage by 20% while in a dark area
+			You lose these benefits and you slowly lose life while in a light area
+			''' */
 	}
 
 	Freeze: {
@@ -1513,9 +1517,34 @@ Items: {
 		// Tooltip: Decreases Stamina Speed by 25%
 	}
 
+	HandholdItem: {
+		// DisplayName: Handhold Item
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
+	}
+
+	TestSkeletonOwl: {
+		// DisplayName: Test Skeleton Owl
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
+	}
+
+	CheeseYoyo: {
+		// DisplayName: Cheese Yoyo
+		// Tooltip: ""
+	}
+
+	CreamChocolateCupStaff: {
+		// DisplayName: Chocolate Cream Cup Staff
+		// Tooltip: ""
+	}
+
 	FryingPanItem: {
 		// DisplayName: Frying Pan
 		// Tooltip: Left click to throw it as a boomerang, right click and hold to swing it as a sword
+	}
+
+	GrilledSquidTentacle: {
+		// DisplayName: Grilled Squid Tentacle
+		// Tooltip: ""
 	}
 
 	BloodGlucoseMonitor: {
@@ -1911,17 +1940,17 @@ Items: {
 
 	VFXGenerator: {
 		// DisplayName: VFX Generator
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	AirTileItem: {
 		// DisplayName: Air Tile Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	AirWallItem: {
 		// DisplayName: Air Wall Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	VortexVanquisherItem: {
@@ -1970,7 +1999,7 @@ Items: {
 
 	PearlOfCyan: {
 		// DisplayName: Pearl Of Cyan
-		// Tooltip: ""
+		// Tooltip: Critical hits summon pine needles directly aiming towards the affected enemy
 	}
 
 	PineNut: {
@@ -2050,7 +2079,7 @@ Items: {
 
 	Tester: {
 		// DisplayName: Tester
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	BloodMossStone: {
@@ -2071,6 +2100,11 @@ Items: {
 	TuskFlesh: {
 		// DisplayName: Tusk Flesh
 		// Tooltip: ""
+	}
+
+	TuskMirror: {
+		// DisplayName: Tusk Mirror
+		// Tooltip: Brings you to The Tusk
 	}
 
 	TuskStatusI: {
@@ -2095,7 +2129,7 @@ Items: {
 
 	BloodyBoneYoyo: {
 		// DisplayName: Bloody Bone Yoyo
-		// Tooltip: Releases tusk nails on every 5 hits
+		// Tooltip: Releases tusk tendrils
 	}
 
 	SpineGun: {
@@ -2108,36 +2142,36 @@ Items: {
 		/* Tooltip:
 			'''
 			{$Mods.Everglow.Common.LegendWeapon}
-			Generates tusk arrows when firing
-			'It can manipulate other tusks'
+			Shoots large tusk arrows that stick to enemies
+			Shooting more tusk arrows causes existing tusk arrows to deal damage
+			This effect can stack up to 6 times. Any more arrows fired causes the oldest tusk arrow to break off
 			''' */
 	}
 
 	ToothKnife: {
 		// DisplayName: Tooth Knife
-		// Tooltip: ""
+		// Tooltip: Every 6th attack causes tusks to appear from above the player and fall diagonally to where the player faced
 	}
 
 	ToothMagicBall: {
 		// DisplayName: Sanguine Orb
-		// Tooltip: ""
+		// Tooltip: Unleashes homing blood orbs
 	}
 
 	ToothSpear: {
-		// DisplayName: Bloody Dragon Spine
+		// DisplayName: Bloody Tusk Spear
+		# Old name was Bloody Dragon Spine
 		/* Tooltip:
 			'''
 			{$Mods.Everglow.Common.MythWeapon}
-			Right click to dash
-			Has a 8s CD
-			Sync reduces the CD
-			'Go, follow the ancient heros to slay dragons'
+			Blood spews on every use
+			'Go, follow the ancient heros to slay the dragons'
 			''' */
 	}
 
 	ToothStaff: {
 		// DisplayName: Tusk Staff
-		// Tooltip: Raises tusks from the ground
+		// Tooltip: Summons tusks to fight for you
 	}
 
 	BloodyTuskTrophy: {
@@ -2161,13 +2195,13 @@ Items: {
 			'''
 			Increases armor penetration by 5
 			Increases damage and crit chance by 5%
-			'A tusk was knocked down from mouth of a beast, again you knocked down a small part of it'
+			'A tusk was knocked down from the mouth of a beast, again you knocked down a small part of it'
 			''' */
 	}
 
 	LargeFireBulbTestItem: {
 		// DisplayName: Large Fire Bulb Test Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	FireflyPylonItem: {
@@ -2212,7 +2246,7 @@ Items: {
 
 	EvilCocoon: {
 		// DisplayName: Magical Cocoon
-		// Tooltip: ""
+		// Tooltip: Summons the giant cocoon
 	}
 
 	FireflyImpression: {
@@ -2299,12 +2333,13 @@ Items: {
 
 	DreamWeaver: {
 		// DisplayName: Dreamweaver
-		// Tooltip: ""
+		// Tooltip: Shoots a blue stream that splits into droplets
 	}
 
 	DustOfCorrupt: {
-		// DisplayName: Corrupted Scales
-		// Tooltip: Scatter moth scales
+		// DisplayName: Corrupted Dust Staff
+		# Old name was Corrupted Scales
+		// Tooltip: Scatter moth dust
 	}
 
 	EvilChrysalis: {
@@ -2318,12 +2353,21 @@ Items: {
 
 	FlowLightMissile: {
 		// DisplayName: Flowlight Missile
-		// Tooltip: ""
+		/* Tooltip:
+			'''
+			Summons homing missiles that create an explosion on impact
+			Extra damage is dealt the longer you use it
+			Drains mana on continuous use
+			''' */
 	}
 
 	GlowBeadGun: {
 		// DisplayName: Glowing Railgun
-		// Tooltip: ""
+		/* Tooltip:
+			'''
+			Shoots beads of light, with more beads shot the longer you use it
+			Drains mana on continuous use
+			''' */
 	}
 
 	GlowWoodSword: {
@@ -2343,7 +2387,7 @@ Items: {
 
 	PhosphorescenceGun: {
 		// DisplayName: Scale Shotgun
-		// Tooltip: Shoots out shots and blue scale bullets which deal 36% damage
+		// Tooltip: Shoots out both shots and blue scale bullets which deal 36% damage
 	}
 
 	ScaleWingBlade: {
@@ -2359,14 +2403,18 @@ Items: {
 		// DisplayName: Occulting Wings
 		/* Tooltip:
 			'''
-			Hold to charge to  increase damage, capped at +200%, and additionally fires Blue Butterfly Arrows.
+			Hold to charge for increased damage, capped at +200%, and additionally fires Blue Butterfly Arrows.
 			Needs 1.5s to be fully charged
 			''' */
 	}
 
 	ShadowPotion: {
 		// DisplayName: Shadow Potion
-		// Tooltip: ""
+		/* Tooltip:
+			'''
+			Increases defense by 15 and damage by 20% while in a dark area
+			You lose these benefits and you slowly lose life while in a light area
+			''' */
 	}
 
 	FluorescentLeafStaff: {
@@ -2545,26 +2593,31 @@ Items: {
 	}
 
 	FireflywoodBreastplate: {
-		// DisplayName: Fireflywood Breastplate
-		// Tooltip: ""
+		// DisplayName: Glow Wood Breastplate
+		/* Tooltip:
+			'''
+			Increases max mana by 20 and max minions by 1
+			Grants immunity to Mana Sickness
+			''' */
 	}
 
 	FireflywoodHelmet: {
-		// DisplayName: Fireflywood Helmet
-		// Tooltip: ""
+		// DisplayName: Glow Wood Helmet
+		// Tooltip: Increases magic critical strike chance by 2%
+		// SetBonus: Increases dealt damage by 20%
 	}
 
 	FireflywoodLeggings: {
-		// DisplayName: Fireflywood Leggings
-		// Tooltip: ""
+		// DisplayName: Glow Wood Leggings
+		// Tooltip: Increases movement speed by 5%
 	}
 
 	FireflyBorageBadge: {
 		// DisplayName: Badge of Firefly Borage
 		/* Tooltip:
 			'''
-			Increases magic damage by 6%
-			Increases movement speed by 15%
+			Increases magic damage by 6% and movement speed by 15%
+			May cause the player to become enraged by a certain powerful enemy
 			'A badge made to remind you of how beautiful that place is'
 			''' */
 	}

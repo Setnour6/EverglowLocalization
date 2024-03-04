@@ -1246,10 +1246,11 @@ Buffs: {
 
 	ShadowPotionBuff: {
 		DisplayName: Shadow Potion Buff
-		Description: '''
-					 Increases defense by 15 and damage by 20% while in a dark area
-					 You lose these benefits and you slowly lose life while in a light area
-					 '''
+		Description:
+			'''
+			Increases defense by 15 and damage by 20% while in a dark area
+			You lose these benefits and you slowly lose life while in a light area
+			'''
 	}
 
 	Freeze: {
@@ -1998,7 +1999,7 @@ Items: {
 
 	PearlOfCyan: {
 		DisplayName: Pearl Of Cyan
-		Tooltip: "Critical hits summon pine needles directly aiming towards the affected enemy"
+		Tooltip: Critical hits summon pine needles directly aiming towards the affected enemy
 	}
 
 	PineNut: {
@@ -2103,7 +2104,7 @@ Items: {
 
 	TuskMirror: {
 		DisplayName: Tusk Mirror
-		Tooltip: "Brings you to The Tusk"
+		Tooltip: Brings you to The Tusk
 	}
 
 	TuskStatusI: {
@@ -2149,7 +2150,7 @@ Items: {
 
 	ToothKnife: {
 		DisplayName: Tooth Knife
-		Tooltip: "Every 6th attack causes tusks to appear from above the player and fall diagonally to where the player faced"
+		Tooltip: Every 6th attack causes tusks to appear from above the player and fall diagonally to where the player faced
 	}
 
 	ToothMagicBall: {
@@ -2245,7 +2246,10 @@ Items: {
 
 	EvilCocoon: {
 		DisplayName: Magical Cocoon
-		Tooltip: "Summons the giant cocoon"
+		Tooltip: '''
+				 Summons the giant cocoon
+				 Breaking the cocoon summons Corrupted Moth
+				 '''
 	}
 
 	FireflyImpression: {
@@ -2352,19 +2356,21 @@ Items: {
 
 	FlowLightMissile: {
 		DisplayName: Flowlight Missile
-		Tooltip: '''
-				 Summons homing missiles that create an explosion on impact
-				 Extra damage is dealt the longer you use it
-				 Drains mana on continuous use
-				 '''
+		Tooltip:
+			'''
+			Summons homing missiles that create an explosion on impact
+			Extra damage is dealt the longer you use it
+			Drains mana on continuous use
+			'''
 	}
 
 	GlowBeadGun: {
 		DisplayName: Glowing Railgun
-		Tooltip: '''
-				 Shoots beads of light, with more beads shot the longer you use it
-				 Drains mana on continuous use
-				 '''
+		Tooltip:
+			'''
+			Shoots beads of light, with more beads shot the longer you use it
+			Drains mana on continuous use
+			'''
 	}
 
 	GlowWoodSword: {
@@ -2407,10 +2413,11 @@ Items: {
 
 	ShadowPotion: {
 		DisplayName: Shadow Potion
-		Tooltip: '''
-				 Increases defense by 15 and damage by 20% while in a dark area
-				 You lose these benefits and you slowly lose life while in a light area
-				 '''
+		Tooltip:
+			'''
+			Increases defense by 15 and damage by 20% while in a dark area
+			You lose these benefits and you slowly lose life while in a light area
+			'''
 	}
 
 	FluorescentLeafStaff: {
@@ -2590,27 +2597,22 @@ Items: {
 
 	FireflywoodBreastplate: {
 		DisplayName: Glow Wood Breastplate
-		Tooltip: '''
-				 Increases max mana by 20 and max minions by 1
-				 Grants immunity to Mana Sickness
-				 '''
+		Tooltip:
+			'''
+			Increases max mana by 20 and max minions by 1
+			Grants immunity to Mana Sickness
+			'''
 	}
 
 	FireflywoodHelmet: {
 		DisplayName: Glow Wood Helmet
-		Tooltip: '''
-				 Increases magic critical strike chance by 2%
-				 '''
-		SetBonus: '''
-				  Increases dealt damage by 20%
-				  '''
+		Tooltip: Increases magic critical strike chance by 2%
+		SetBonus: Increases dealt damage by 20%
 	}
 
 	FireflywoodLeggings: {
 		DisplayName: Glow Wood Leggings
-		Tooltip: '''
-				 Increases movement speed by 5%
-				 '''
+		Tooltip: Increases movement speed by 5%
 	}
 
 	FireflyBorageBadge: {

@@ -1248,7 +1248,11 @@ Buffs: {
 
 	ShadowPotionBuff: {
 		// DisplayName: Shadow Potion Buff
-		// Description: Mods.Everglow.Buffs.ShadowPotionBuff.Description
+		/* Description:
+			'''
+			Increases defense by 15 and damage by 20% while in a dark area
+			You lose these benefits and you slowly lose life while in a light area
+			''' */
 	}
 
 	Freeze: {
@@ -1515,9 +1519,34 @@ Items: {
 		// Tooltip: Decreases Stamina Speed by 25%
 	}
 
+	HandholdItem: {
+		// DisplayName: Handhold Item
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
+	}
+
+	TestSkeletonOwl: {
+		// DisplayName: Test Skeleton Owl
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
+	}
+
+	CheeseYoyo: {
+		// DisplayName: Cheese Yoyo
+		// Tooltip: ""
+	}
+
+	CreamChocolateCupStaff: {
+		// DisplayName: Chocolate Cream Cup Staff
+		// Tooltip: ""
+	}
+
 	FryingPanItem: {
 		DisplayName: 炒锅
 		Tooltip: 左键作为回旋镖投掷，长按右键作为近战武器
+	}
+
+	GrilledSquidTentacle: {
+		// DisplayName: Grilled Squid Tentacle
+		// Tooltip: ""
 	}
 
 	BloodGlucoseMonitor: {
@@ -1910,17 +1939,17 @@ Items: {
 
 	VFXGenerator: {
 		// DisplayName: VFX Generator
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	AirTileItem: {
 		// DisplayName: Air Tile Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	AirWallItem: {
 		// DisplayName: Air Wall Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	VortexVanquisherItem: {
@@ -1968,7 +1997,7 @@ Items: {
 
 	PearlOfCyan: {
 		// DisplayName: Pearl Of Cyan
-		// Tooltip: ""
+		// Tooltip: Critical hits summon pine needles directly aiming towards the affected enemy
 	}
 
 	PineNut: {
@@ -2048,7 +2077,7 @@ Items: {
 
 	Tester: {
 		DisplayName: 测试
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	BloodMossStone: {
@@ -2069,6 +2098,11 @@ Items: {
 	TuskFlesh: {
 		DisplayName: 活组织
 		// Tooltip: ""
+	}
+
+	TuskMirror: {
+		// DisplayName: Tusk Mirror
+		// Tooltip: Brings you to The Tusk
 	}
 
 	TuskStatusI: {
@@ -2114,16 +2148,17 @@ Items: {
 
 	ToothKnife: {
 		// DisplayName: Tooth Knife
-		// Tooltip: ""
+		// Tooltip: Every 6th attack causes tusks to appear from above the player and fall diagonally to where the player faced
 	}
 
 	ToothMagicBall: {
 		DisplayName: 血色法球
-		// Tooltip: ""
+		// Tooltip: Unleashes homing blood orbs
 	}
 
 	ToothSpear: {
 		DisplayName: 血龙脊
+		# Old name was Bloody Dragon Spine
 		Tooltip:
 			'''
 			{$Mods.Everglow.Common.MythWeapon}
@@ -2165,7 +2200,7 @@ Items: {
 
 	LargeFireBulbTestItem: {
 		// DisplayName: Large Fire Bulb Test Item
-		// Tooltip: ""
+		// Tooltip: "{$Mods.Everglow.Common.DebugItem}"
 	}
 
 	FireflyPylonItem: {
@@ -2210,7 +2245,7 @@ Items: {
 
 	EvilCocoon: {
 		DisplayName: 魔茧
-		// Tooltip: ""
+		// Tooltip: Summons the giant cocoon
 	}
 
 	FireflyImpression: {
@@ -2300,11 +2335,12 @@ Items: {
 
 	DreamWeaver: {
 		DisplayName: 织梦丝雨
-		// Tooltip: ""
+		// Tooltip: Shoots a blue stream that splits into droplets
 	}
 
 	DustOfCorrupt: {
 		DisplayName: 腐化粉尘
+		# Old name was Corrupted Scales
 		Tooltip: 散播鳞粉
 	}
 
@@ -2319,7 +2355,12 @@ Items: {
 
 	FlowLightMissile: {
 		// DisplayName: Flowlight Missile
-		// Tooltip: ""
+		/* Tooltip:
+			'''
+			Summons homing missiles that create an explosion on impact
+			Extra damage is dealt the longer you use it
+			Drains mana on continuous use
+			''' */
 	}
 
 	GlowBeadGun: {
@@ -2371,7 +2412,11 @@ Items: {
 
 	ShadowPotion: {
 		// DisplayName: Shadow Potion
-		// Tooltip: ""
+		/* Tooltip:
+			'''
+			Increases defense by 15 and damage by 20% while in a dark area
+			You lose these benefits and you slowly lose life while in a light area
+			''' */
 	}
 
 	FluorescentLeafStaff: {
@@ -2550,18 +2595,23 @@ Items: {
 	}
 
 	FireflywoodBreastplate: {
-		// DisplayName: Fireflywood Breastplate
-		// Tooltip: ""
+		// DisplayName: Glow Wood Breastplate
+		/* Tooltip:
+			'''
+			Increases max mana by 20 and max minions by 1
+			Grants immunity to Mana Sickness
+			''' */
 	}
 
 	FireflywoodHelmet: {
-		// DisplayName: Fireflywood Helmet
-		// Tooltip: ""
+		// DisplayName: Glow Wood Helmet
+		// Tooltip: Increases magic critical strike chance by 2%
+		// SetBonus: Increases dealt damage by 20%
 	}
 
 	FireflywoodLeggings: {
-		// DisplayName: Fireflywood Leggings
-		// Tooltip: ""
+		// DisplayName: Glow Wood Leggings
+		// Tooltip: Increases movement speed by 5%
 	}
 
 	FireflyBorageBadge: {
